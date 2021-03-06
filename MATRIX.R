@@ -1,3 +1,4 @@
+?sample
 values<-sample(1:1000, 100, FALSE)
 values
 G<-matrix(values, 10, 10, TRUE)
